@@ -19,6 +19,7 @@
 // SOFTWARE.
 
 #include <stdexcept>
+#include <cstdlib>
 #include "libGraphite/data/data.hpp"
 
 // MARK: - Constructor
